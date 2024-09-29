@@ -25,10 +25,12 @@ This project demonstrates fundamental web development skills, focusing on struct
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/samcnvs/portfolio.git
+   git clone [https://github.com/samcnvs/portfolio.git](https://github.com/samcnvs/Iledan_Portfolio)
    ```
 
 ### HTML Elements and Tags Used
+
+<!--<p>
 
 <!DOCTYPE html>: Defines the document type as HTML.
 <html>: The root element of the HTML document.
@@ -49,3 +51,5 @@ This project demonstrates fundamental web development skills, focusing on struct
 <footer>: Defines the footer section of the page with copyright and social links.
 <p>: Paragraph tag used for text content.
 <section>: Groups content that forms a standalone section.
+
+</p>-->
