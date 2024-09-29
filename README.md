@@ -30,7 +30,8 @@ This project demonstrates fundamental web development skills, focusing on struct
 
 ### HTML Elements and Tags Used
 
-***<!DOCTYPE html>: Defines the document type as HTML.
+```
+<!DOCTYPE html>: Defines the document type as HTML.
 <html>: The root element of the HTML document.
 <head>: Contains meta-information about the HTML document
 <meta charset="utf-8">: Specifies the character encoding (UTF-8).
@@ -48,6 +49,6 @@ This project demonstrates fundamental web development skills, focusing on struct
 <br>: Creates a line break, adding space between sections
 <footer>: Defines the footer section of the page with copyright and social links.
 <p>: Paragraph tag used for text content.
-<section>: Groups content that forms a standalone section.***
+<section>: Groups content that forms a standalone section.
 
 
